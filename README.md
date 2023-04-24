@@ -15,4 +15,4 @@ Visit this website @https://nepalvehicletravelsandtours.com/
 - Messenger Chat Plugin
 
 
-![Company's Logo](https://nepalvehicletravelsandtours.com/Assets/logo.svg)
+![Company's Logo](https://nepalvehicletravelsandtours.com/Assets/footer-logo.svg)

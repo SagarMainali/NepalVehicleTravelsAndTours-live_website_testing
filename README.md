@@ -1,3 +1,3 @@
-# live_website_testing
+# Nepal Vehicle Travels And Tours
 
-repo made for testing website before hosting.
+This repo was made for testing purposes for a vehicle rental website before hosting for the company 'Nepal Vehicle Travels And Tours'.
